@@ -1,0 +1,4 @@
+ #!/bin/bash
+
+abs_path=$(realpath ${BASH_SOURCE:-$0})
+echo The absolute path name of the current writing directory is: $abs_path 
