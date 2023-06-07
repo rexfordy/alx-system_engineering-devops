@@ -1,0 +1,3 @@
+  #!/bin/bash 
+ 
+echo The contents list of the current directory is:  echo ls 

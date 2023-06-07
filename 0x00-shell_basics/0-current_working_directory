@@ -1,2 +1,2 @@
-  #!/bin/bash 
-  echo The absolute path name of the current directory is:  $(realpath ${BASH_SOURCE:-$0}) 
+#!/bin/bash 
+ pwd 
