@@ -1,3 +1,2 @@
-
-##!/bin/bash
-rrev
+#!/bin/bash
+rev
